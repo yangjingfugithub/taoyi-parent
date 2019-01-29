@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-parent.iml" filepath="$PROJECT_DIR$/basic-parent/basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyi-basic-parent/taoyi-basic-parent.iml" filepath="$PROJECT_DIR$/taoyi-basic-parent/taoyi-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyi-basic-parent/taoyi-basic-util/taoyi-basic-util.iml" filepath="$PROJECT_DIR$/taoyi-basic-parent/taoyi-basic-util/taoyi-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyi-eureka/taoyi-eureka.iml" filepath="$PROJECT_DIR$/taoyi-eureka/taoyi-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyi-parent.iml" filepath="$PROJECT_DIR$/taoyi-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyi-plat-parent/taoyi-plat-interface/taoyi-plat-interface.iml" filepath="$PROJECT_DIR$/taoyi-plat-parent/taoyi-plat-interface/taoyi-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyi-plat-parent/taoyi-plat-parent.iml" filepath="$PROJECT_DIR$/taoyi-plat-parent/taoyi-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyi-plat-parent/taoyi-plat-service/taoyi-plat-service.iml" filepath="$PROJECT_DIR$/taoyi-plat-parent/taoyi-plat-service/taoyi-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyi-zuul/taoyi-zuul.iml" filepath="$PROJECT_DIR$/taoyi-zuul/taoyi-zuul.iml" />
+    </modules>
+  </component>
+</project>
