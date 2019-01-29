@@ -1,5 +1,5 @@
 package cn.science.util;
-
+/*修改了哈哈哈哈哈哈哈哈哈*/
 public class AjaxResult {
 
     private boolean success;//结果
